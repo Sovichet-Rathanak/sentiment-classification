@@ -11,3 +11,4 @@ wheels/
 
 # notebook checkpoints
 .ipynb*
+notebook/challenge.txt
